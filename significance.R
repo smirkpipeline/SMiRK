@@ -1,11 +1,6 @@
-#smirk.R
+#significance.R
 #Do R-based data analysis for the SMiRK pipeline
 #Brandon Milholland
-
-
-
-
-
 
 data.file=commandArgs()[6]
 group1.file=commandArgs()[7]
