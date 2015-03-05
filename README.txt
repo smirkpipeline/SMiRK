@@ -28,4 +28,4 @@ This takes the samples from the two groups specified and performs the Wilcoxon t
 
 
 LICENSE
-This software is license under the GNU GPL version 3 or later.
+This software is licensed under the GNU GPL version 3 or later.
